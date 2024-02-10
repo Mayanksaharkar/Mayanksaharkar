@@ -2,7 +2,7 @@
 
 # Welcome to My GitHub Profile! 👋
 
-Hi there! I'm a Mayank Saharkar who loves to explore new technologies and work on challenging projects. Here's a little more about me:
+Hi there! I'm a Web Developer who loves to explore new technologies and work on challenging projects. Here's a little more about me:
 
 - 🔭 I’m currently working on web development projects using React and Node.js.
 - 🌱 I’m currently learning more about data science and analytics.
