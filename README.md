@@ -16,7 +16,7 @@ Hi there! I'm a Web Developer who loves to explore new technologies and work on 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayanksaharkar&show_icons=true&theme=radical)
 
 ### Languages and Tools:
-<div style="display: flex; align-items: center; justify-content: space-around; gap: 10px;">
+<div style="display: flex; align-items: center; justify-content:space-around; gap: 10px">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="52" height="52" />
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="52" height="52" />
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="52" height="52" />
