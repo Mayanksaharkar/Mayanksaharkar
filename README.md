@@ -13,7 +13,6 @@ Hi there! I'm a Web Developer who loves to explore new technologies and work on 
 - ⚡ Fun fact: I love to play the pc Games and explore nature.
 
 ### My GitHub Stats
-![Visitor Count](https://profile-counter.glitch.me/{Mayanksaharkar}/count.svg)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayanksaharkar&show_icons=true&theme=radical)
 
 ### Languages and Tools:
