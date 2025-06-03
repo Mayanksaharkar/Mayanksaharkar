@@ -8,10 +8,10 @@ Hi there! I'm a Web Developer who loves to explore new technologies and work on 
 - 🌱 I’m currently learning more about data science and analytics.
 - 👯 I’m looking to collaborate on open source projects or exciting startups.
 - 🤔 I’m looking for help with advanced web development concepts.
-- 📫 How to reach me: mayanksaharkar@gmail.com
+- 📫 How to reach me: msaharkar04@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play the pc Games and explore nature.
-- 🌐 portfolio : https://portfolio-eight-gules-58.vercel.app/
+- 🌐 portfolio :(https://www.msaharkar.tech/)
 
 ### My GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayanksaharkar&show_icons=true&theme=radical)
